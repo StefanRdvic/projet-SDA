@@ -1,10 +1,9 @@
-- Pour toutes questions relatives au projet, ne pas hésiter à m'écrire (Denis.Poitrenaud@u-paris.fr)
 
 - Le sujet du projet est dans le document projetSDA.pdf.
 
-- Le répertoire inout contient les sorties attendues de vos programmes (out?.txt) pour des entrées données (in?.txt). Le fichier in1-2.txt est le fichier d'entrée des deux premiers programmes.
+- Le rÃ©pertoire inout contient les sorties attendues de vos programmes (out?.txt) pour des entrÃ©es donnÃ©es (in?.txt). Le fichier in1-2.txt est le fichier d'entrÃ©e des deux premiers programmes.
 
-- Au sein des fichiers de sorties, les listes de mots sont toutes sous forme canonique (pour la définition d'une liste canonique, voir le sujet). Si l'un de vos programmes ne produit pas une liste respectant ce format, employez le second programme pour filter sa sortie. Par exemple, si le programme exo3.exe ne produit pas une liste au format canonique et que exo2.exe correspond au second programme demandé alors la commande
+- Au sein des fichiers de sorties, les listes de mots sont toutes sous forme canonique (pour la dÃ©finition d'une liste canonique, voir le sujet). Si l'un de vos programmes ne produit pas une liste respectant ce format, employez le second programme pour filter sa sortie. Par exemple, si le programme exo3.exe ne produit pas une liste au format canonique et que exo2.exe correspond au second programme demandÃ© alors la commande
 
 (exo3 < in3.txt) | exo2
 
@@ -21,12 +20,12 @@ fc out3.txt myout3.txt
 doit afficher les 2 lignes suivantes
 
 Comparaison des fichiers out3.txt et myout3.txt
-FC : aucune différence trouvée
+FCÂ : aucune diffÃ©rence trouvÃ©e
 
-En cas de différence, l'emploi de www.diffchecker.com peut être utile pour localiser les erreurs.
+En cas de diffÃ©rence, l'emploi de www.diffchecker.com peut Ãªtre utile pour localiser les erreurs.
 
 
-- l'archive ods4.zip contient un fichier présentant une liste de 9085 mots français (Attention, cette liste n'est pas terminée par *). Vous pouvez vous en servir trouver automatiquement tous les mots présents dans un plateau de jeu.
+- l'archive ods4.zip contient un fichier prÃ©sentant une liste de 9085 mots franÃ§ais (Attention, cette liste n'est pas terminÃ©e par *). Vous pouvez vous en servir trouver automatiquement tous les mots prÃ©sents dans un plateau de jeu.
 
 Bon projet !
 D. Poitrenaud
